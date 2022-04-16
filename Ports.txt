@@ -1,2 +1,4 @@
+IdentityServer => 5001
+
 Services
 	-Catalog => 5011
